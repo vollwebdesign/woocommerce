@@ -1,1 +1,1 @@
-FROM wordpress:5.4
+FROM wordpress:5.5
