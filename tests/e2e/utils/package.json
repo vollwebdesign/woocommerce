@@ -11,6 +11,6 @@
     "main": "build/index.js",
     "module": "build-module/index.js",
     "dependencies": {
-      "@wordpress/e2e-test-utils": "4.6.0"
+      "@wordpress/e2e-test-utils": "11.10.0"
     }
   }
